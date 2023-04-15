@@ -1,0 +1,1 @@
+"# AcmaScript6-shothand" 
